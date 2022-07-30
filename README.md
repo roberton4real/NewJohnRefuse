@@ -13,8 +13,7 @@
 
 - ⚡ Fun fact **I am a youtuber**
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
+
 
 
 <h3 align="left">Connect with me:</h3>
