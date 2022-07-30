@@ -16,7 +16,7 @@
 
 
 
-<h3 align="left">Connect with me: On linKedin </h3>
+<h3 align="left">Connect with me: On linkedin </h3>
 <p align="left">
 </p>
 
