@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **newjohnaws@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/john-roberton-b479211a0/](https://www.linkedin.com/in/john-roberton-b479211a0/)
-
-- ⚡ Fun fact **I am a youtuber**
+- 📄 Know about my experiences https://www.linkedin.com/in/newjohnrefuse/
 
 
 
