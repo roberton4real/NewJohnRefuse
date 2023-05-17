@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://njhd.substack.com/](https://njhd.substack.com/)
 
-- 📫 How to reach me **newjohnaws@gmail.com**
+- 📫 How to reach me **johnroberton14@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/newjohnrefuse/
 
