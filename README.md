@@ -3,11 +3,6 @@
 
 Currently pursuing a Bachelor of Science degree in Software Engineering at Western Governors University, I am passionate about cloud computing and have complemented my academic journey with a diploma in Cloud Engineering. Through internships and coursework, I have gained valuable insights into DevOps methodologies and tools. While I am in the early stages of my career, I am eager to apply my knowledge and skills to real-world challenges. Fluent in both English and French, I bring a combination of technical aptitude and strong communication skills to contribute to the advancement of innovation and efficiency in the field of cloud computing.
 
-
-
-
-
-<h3 align="left">Connect with me: On linkedin </h3>
 <p align="left">
 </p>
 
