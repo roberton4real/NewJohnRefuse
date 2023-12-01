@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm New John Refuse</h1>
-<h3 align="center">A passionate Software Enginner with heavy interest DevOps Engineer</h3>
+<h3 align="center">A passionate Software Enginner student with specialised in DevOps Engineer and cloud computing</h3>
 
-- 🔭 I’m currently working on **ProjectButterFly and TerraformProjects**
+- 🔭 I’m currently working on **sql**
 
 - 🌱 I’m currently learning **SWE @ Western Governors University **
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **johnroberton14@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/newjohnrefuse/
 
 
 
