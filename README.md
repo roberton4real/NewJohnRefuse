@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm New John Refuse</h1>
 <h3 align="center">Passionate Software Engineering student specializing in DevOps and Cloud Computing</h3>
 
-<p align="center">Currently pursuing a Bachelor of Science degree in Software Engineering at Western Governors University, my enthusiasm lies in the realm of cloud computing. I have complemented my academic journey with a diploma in Cloud Engineering. Proficient in CI/CD, Infrastructure as Code (IaC), and various DevOps tools, I bring a fresh perspective and modern skills to the evolving landscape of technology.</p>
+<p align="center">Currently pursuing a Bachelor of Science degree in Software Engineering at Western Governors University, I am passionate about cloud computing and have complemented my academic journey with a diploma in Cloud Engineering. Skilled in CI/CD, Infrastructure as Code (IaC), and various DevOps tools, I have gained valuable insights into modern methodologies and practices. While I am in the early stages of my career, I am eager to apply my knowledge and experience to real-world challenges.</p>
 
-<p align="center">In the nascent stages of my career, I am excited to apply my knowledge and experience to tackle real-world challenges. Fluent in both English and French, I possess a blend of technical aptitude and effective communication skills to contribute to the continuous advancement of innovation and efficiency in the field of cloud computing.</p>
+<p align="center">Fluent in both English and French, I bring a combination of technical aptitude and strong communication skills to contribute to the advancement of innovation and efficiency in the field of cloud computing.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
