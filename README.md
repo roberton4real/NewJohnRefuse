@@ -1,43 +1,76 @@
-<h1 align="center">Hi 👋, I'm New John Refuse</h1>
-<h3 align="center">Passionate Software Engineering student specializing in DevOps and Cloud Computing</h3>
+Hi 👋, I'm New John Refuse
+Cloud Systems Architect | DevSecOps & Infrastructure Automation Expert
 
-<p align="center">Currently pursuing a Bachelor of Science degree in Software Engineering at Western Governors University, I am passionate about cloud computing and have complemented my academic journey with a diploma in Cloud Engineering. Skilled in CI/CD, Infrastructure as Code (IaC), and various DevOps tools, I have gained valuable insights into modern methodologies and practices. While I am in the early stages of my career, I am eager to apply my knowledge and experience to real-world challenges.</p>
 
-<p align="center">Fluent in both English and French, I bring a combination of technical aptitude and strong communication skills to contribute to the advancement of innovation and efficiency in the field of cloud computing.</p>
+Currently pursuing a Bachelor of Science in Computing and Information Systems with a Finance minor at Athabasca University, I bring over five years of experience in designing and optimizing secure, scalable cloud infrastructures on AWS and Azure. Specializing in DevSecOps and automation, I’m passionate about driving innovation in cloud operations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
+
+Fluent in English and French, I combine technical expertise with clear communication to deliver compliant, high-availability cloud solutions.
+
+
+Languages and Tools:
+
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+
+
+Key Projects:
+
+    CI/CD Pipeline with DevSecOps: Built a Jenkins-based pipeline with GitHub, Maven, and SonarQube for SAST/DAST scans. Automated Docker deployments to AWS ECS/ECR with Route 53 for Blue-Green releases, achieving zero-downtime. Tech: Jenkins, AWS ECS, ECR, Route 53, CloudWatch, Terraform
+    NIST/SOC2 Compliance: Configured AWS Control Tower guardrails and CloudTrail for API auditing, streamlining secure account provisioning. Tech: AWS Control Tower, CloudTrailを使って、AWS Config
+    Azure Monitoring & Automation: Developed KQL dashboards and scripted Azure Policy for compliance, boosting efficiency by 20%. Tech: Azure, KQL, Azure CLI, PowerShell, Azure Policy
+
+
+Experience Highlights:
+
+    Technical Analyst Student, PCL Construction (Sep 2024 – Apr 2025): Automated cloud tasks and built KQL dashboards for Azure resource management.
+    Solutions Architect Intern, MetaWorldX (Jan 2023 – Aug 2023): Designed secure, scalable AWS architectures using Terraform.
+
+
+Certifications:
+
+    AWS Certified Solutions Architect – Associate
+    AWS Certified SysOps Administrator – Associate
+    Microsoft Certified: Azure Administrator Associate (AZ-104)
+    CompTIA A+, Network+, Security+
+    ITIL 4 Foundation, Linux Essentials
+
+
+Connect with Me:
+
+    LinkedIn | 
+    Email
+
+
+“Secure, automate, scale – building the future of cloud infrastructure.”
