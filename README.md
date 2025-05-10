@@ -1,70 +1,70 @@
-Hi 👋, I'm New John Refuse
-Cloud Systems Architect | DevSecOps & Infrastructure Automation Expert
+<h1 align="center">Hi 👋, I'm New John Refuse</h1>
+<h3 align="center">Cloud Systems Architect | DevSecOps & Infrastructure Automation Expert</h3>
 
+<p align="center">
+🎓 Bachelor of Science in Computing & Info Systems (Finance minor) — Athabasca University <br/>
+🛡️ 5+ years designing secure, scalable infrastructures on AWS & Azure <br/>
+⚙️ DevSecOps | CI/CD | Infrastructure as Code | Automation | Monitoring <br/>
+🌍 Bilingual: English & French
+</p>
 
-Currently pursuing a Bachelor of Science in Computing and Information Systems with a Finance minor at Athabasca University, I bring over five years of experience in designing and optimizing secure, scalable cloud infrastructures on AWS and Azure. Specializing in DevSecOps and automation, I’m passionate about driving innovation in cloud operations.
+---
 
+### 🚀 About Me
 
-Fluent in English and French, I combine technical expertise with clear communication to deliver compliant, high-availability cloud solutions.
+I specialize in **secure cloud architecture** and **DevSecOps automation**. My passion lies in building scalable systems with end-to-end automation, monitoring, and compliance baked in. I focus on bridging development and operations with security-first cloud engineering.
 
+---
 
-Languages and Tools:
+### 🛠️ Languages & Tools
 
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
-    
-        
-    
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
+</p>
 
+---
 
-Key Projects:
+### 🔧 Key Projects
 
-    CI/CD Pipeline with DevSecOps: Built a Jenkins-based pipeline with GitHub, Maven, and SonarQube for SAST/DAST scans. Automated Docker deployments to AWS ECS/ECR with Route 53 for Blue-Green releases, achieving zero-downtime. Tech: Jenkins, AWS ECS, ECR, Route 53, CloudWatch, Terraform
-    NIST/SOC2 Compliance: Configured AWS Control Tower guardrails and CloudTrail for API auditing, streamlining secure account provisioning. Tech: AWS Control Tower, CloudTrailを使って、AWS Config
-    Azure Monitoring & Automation: Developed KQL dashboards and scripted Azure Policy for compliance, boosting efficiency by 20%. Tech: Azure, KQL, Azure CLI, PowerShell, Azure Policy
+- **CI/CD Pipeline with DevSecOps**  
+  Jenkins-based CI/CD using GitHub, Maven, and SonarQube for security scans. Automated Docker deployments to AWS ECS/ECR using Route 53 for blue-green releases.  
+  _Tech:_ Jenkins, AWS ECS, ECR, Route 53, CloudWatch, Terraform
 
+- **NIST/SOC2 Compliance Automation**  
+  Used AWS Control Tower guardrails, CloudTrail, and Config to standardize secure multi-account provisioning.  
+  _Tech:_ AWS Control Tower, CloudTrail, AWS Config
 
-Experience Highlights:
+- **Azure Monitoring & Policy Automation**  
+  Built dashboards with KQL and automated policy enforcement scripts, increasing audit efficiency by 20%.  
+  _Tech:_ Azure Monitor, Azure Policy, KQL, PowerShell, CLI
 
-    Technical Analyst Student, PCL Construction (Sep 2024 – Apr 2025): Automated cloud tasks and built KQL dashboards for Azure resource management.
-    Solutions Architect Intern, MetaWorldX (Jan 2023 – Aug 2023): Designed secure, scalable AWS architectures using Terraform.
+---
 
+### 💼 Experience Highlights
 
-Certifications:
+- **Technical Analyst Intern** – *PCL Construction* (Sep 2024 – Apr 2025)  
+  Created automation scripts and compliance dashboards for Azure.
 
-    AWS Certified Solutions Architect – Associate
-    AWS Certified SysOps Administrator – Associate
-    Microsoft Certified: Azure Administrator Associate (AZ-104)
-    CompTIA A+, Network+, Security+
-    ITIL 4 Foundation, Linux Essentials
+- **Solutions Architect Intern** – *MetaWorldX* (Jan 2023 – Aug 2023)  
+  Designed secure AWS infrastructures with Terraform.
 
+---
 
-“Secure, automate, scale – building the future of cloud infrastructure.”
+### 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified SysOps Administrator – Associate  
+- Microsoft Certified: Azure Administrator Associate (AZ-104)  
+- CompTIA A+, Network+, Security+  
+- ITIL 4 Foundation | Linux Essentials
+
+---
+
+<p align="center"><i>“Secure, automate, scale – building the future of cloud infrastructure.”</i></p>
