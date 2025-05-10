@@ -67,10 +67,4 @@ Certifications:
     ITIL 4 Foundation, Linux Essentials
 
 
-Connect with Me:
-
-    LinkedIn | 
-    Email
-
-
 “Secure, automate, scale – building the future of cloud infrastructure.”
